@@ -1,8 +1,9 @@
 body {
-background-image: url(../images/background.jpg);
-font-family: Traditional serif;
-font-size: 24px;
+  background-image: url(../images/background.jpg);
+  font-family: Traditional serif;
+  font-size: 24px;
 }
+
 .firstHeading {
   text-align: center;
   font-weight: bolder;
