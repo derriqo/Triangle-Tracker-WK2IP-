@@ -6,7 +6,7 @@
 
 ### Author Information
 
-
+* **Derrick William**
 
 
 ## Setup Instruction
@@ -15,7 +15,7 @@
 
 ## Technologies Used
 
-* **Derrick William**
+
 
 
 ## Contact information
