@@ -1,6 +1,5 @@
 body {
-  background-image: image(images/background.jpg);
-
+background-image: url(../images/background.jpg);
 }
 .firstHeading {
   text-align: center;
