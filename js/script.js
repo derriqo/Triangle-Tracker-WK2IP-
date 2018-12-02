@@ -1,7 +1,3 @@
-var side1 = (Please enter a digit.)
-var side2 = (Please enter a digit.)
-var side3 = (Please enter a digit.)
-
-
-
-if
+function Triangle () {
+    var side1 = prompt("Enter the size number");
+}
