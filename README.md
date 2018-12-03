@@ -15,7 +15,10 @@ To get started with this application you need to simply not get Internet Connect
 
 
 ## Technologies Used
-The application runs on HTML, CSS STYLE SHEET and JAVASCRIPT.
+The application runs on;
+HTML
+CSS
+JAVASCRIPT
 
 
 ## Contact information
