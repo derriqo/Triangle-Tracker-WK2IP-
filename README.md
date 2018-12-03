@@ -2,9 +2,10 @@
 
 #  Project Description
 Knowing the type of a triangle one is sometimes is difficult isn't ?This Triangle Tracker Application uses the length values entered by the user to identify whether the triangle is Isosceles,Scalene or Obtuse.
+![Sample Picture] (images/download.jpeg)
 
 
-### Author Information
+### Developer
 
 * **Derrick William**
 
@@ -22,7 +23,7 @@ JAVASCRIPT
 
 
 ## Contact information
-
+One can contribute to the project through the following link. https://github.com/derriqo/Triangle-Tracker-WK2IP-
 
 
 ## License and Copyright Information
