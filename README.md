@@ -1,7 +1,7 @@
 #   TRIANGLE TRACKER
 
 #  Project Description
-Knowing the type of a triangle one is sometimes is difficult isn't ?This Triangle Tracker Application is the app that solves this problem.
+Knowing the type of a triangle one is sometimes is difficult isn't ?This Triangle Tracker Application uses the length values entered by the user to identify whether the triangle is Isosceles,Scalene or Obtuse.
 
 
 ### Author Information
