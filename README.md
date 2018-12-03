@@ -1,7 +1,7 @@
 #   TRIANGLE TRACKER
 
 #  Project Description
-T
+Knowing the type of a triangle one is sometimes is difficult isn't ?This Triangle Tracker Application is the app that solves this problem.
 
 
 ### Author Information
@@ -10,12 +10,12 @@ T
 
 
 ## Setup Instruction
+To get started with this application you need to simply not get Internet Connection and get Started.
 
 
 
 ## Technologies Used
-
-
+The application runs on HTML, CSS STYLE SHEET and JAVASCRIPT.
 
 
 ## Contact information
