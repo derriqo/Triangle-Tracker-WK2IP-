@@ -9,7 +9,7 @@ function triangle() {
         {
           alert("Equilateral Triangle");
         } else if (side1 + side2 <= side3 || side2 + side3 <= side1 || side3 + side1 <= side2){
-          alert("Not a Triangle");
+          alert("Triangel CANNOT be created!");
         }
          else if (side1 == side2 || side2 == side3 || side3 == side1){
           alert("Isosceles Triangle");
