@@ -29,7 +29,7 @@ There exists the following types of triangles
  Given that this Application only tests for __three__ of the given Triangles since they are determined by their length size.
 
  **Implementation**
-As a developer i introduced the user to the application and how to start off. Once the user inputs data specifically in for of numbers . I collect the values inputed and validate them for the computer. This now enables the process of checking the various conditions of forming the triangles and hence manage to identify a given triangle.
+As a developer i introduced the user to the application and how to start off. Once the user inputs data specifically in form of numbers . I collect the values inputed and validate them for the computer. This now enables the process of checking the various conditions of forming the triangles and hence manage to identify a given triangle.
 
 ## Technologies Used
 The application runs on:
@@ -41,6 +41,8 @@ The application runs on:
 ## Contact information
 One can contribute to the project through the following link. https://github.com/derriqo/Triangle-Tracker-WK2IP-
 
+email me at williamderrick100@gmail.com
+skype derriq6
 
 ## License and Copyright Information
 
